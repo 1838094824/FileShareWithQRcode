@@ -1,0 +1,2 @@
+# FileShareWithQRcode
+Django+qrcode+JS
